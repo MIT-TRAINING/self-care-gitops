@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: self-care
 spec:
-  replicas: 8
+  replicas: 6
